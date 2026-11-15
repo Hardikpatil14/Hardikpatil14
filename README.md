@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hardik Patil
+# Patil Hardik Maheshbhai 
 
 **Full-Stack Developer · Data Analytics · MCA @ Pune**
 
