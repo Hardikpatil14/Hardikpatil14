@@ -13,7 +13,7 @@
 
 ---
 
-## `~/whoami`
+## `Whoami`
 
 ```json
 {
@@ -33,7 +33,7 @@
 
 ---
 
-## `~/skills`
+## `Skills`
 
 | Layer | Stack |
 |:--|:--|
@@ -46,7 +46,7 @@
 
 ---
 
-## `~/projects`
+## `Projects`
 
 <details open>
 <summary><b>CRM: Customer Relationship Management</b> &nbsp;·&nbsp; <code>PHP</code> <code>MySQL</code> <code>JavaScript</code></summary>
@@ -91,18 +91,18 @@
 
 ---
 
-## `~/experience`
+## `Experience`
 
 - **Tata Group: Data Visualisation Virtual Internship** (Forage): built dashboards and communicated insights for business decisions.
 
-## `~/certifications`
+## `Certifications`
 
 - Excel Data Analysis and Pivot Tables (Udemy)
 - Power BI For Beginners
 
 ---
 
-## `~/stats`
+## `Stats`
 
 <div align="center">
 
